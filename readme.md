@@ -1,4 +1,4 @@
-# Hi, I'm Philipp Kasten 👋
+# Hi, I'm Philipp 👋
 
 <p align="center">
   Full‑stack developer · Business Informatics student · Problem solver
@@ -11,7 +11,7 @@
 I’m a Business Informatics (B.Sc.) student at Osnabrück who turns ideas into scalable web applications.<br>
 During the day I build software as a working student at <a href="https://vi-os.de/">Praxis Vi.os</a>; at night I tinker with side projects that remove needless friction from everyday processes. I enjoy pairing rock‑solid back‑ends with accessible UIs and a sprinkle of automation to make life easier.
 
-- 🔭 Currently shipping **Digitale Vertragsvermittlung**, an end‑to‑end contract brokerage platform built with Laravel 12 & Filament.
+- 🔭 Currently developing **Digitale Vertragsvermittlung**, an end‑to‑end contract brokerage platform built with Laravel 12 & Filament.
 - 🛠 Actively maintaining **TheraPlanner**, a Laravel‑based practice‑management SaaS improving patient care in German clinics.
 - ✨ Open for internship/working‑student positions starting Oct 2025 – say hi!
 
