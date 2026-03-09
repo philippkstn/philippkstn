@@ -8,22 +8,20 @@
 
 ### 🧑‍💻 About
 
-I’m a Business Informatics (B.Sc.) student at Osnabrück who turns ideas into scalable web applications.<br>
-During the day I build software as a working student at <a href="https://vi-os.de/">Praxis Vi.os</a>; at night I tinker with side projects that remove needless friction from everyday processes. I enjoy pairing rock‑solid back‑ends with accessible UIs and a sprinkle of automation to make life easier.
+I’m a Business Informatics (B.Sc.) student at Hochschule Osnabrück, currently finishing my degree and writing my bachelor's thesis. 
+By day, I build software as a developer at **SIEVERS-GROUP**, focusing on cloud-native security solutions. By night, I tinker with side projects that remove needless friction from everyday processes. I enjoy pairing rock-solid backends with accessible UIs and a sprinkle of automation.
 
-- 🔭 Currently developing **Digitale Vertragsvermittlung**, an end‑to‑end contract brokerage platform built with Laravel 12 & Filament.
-- 🛠 Actively maintaining **TheraPlanner**, a Laravel‑based practice‑management SaaS improving patient care in German clinics.
-- ✨ Open for internship/working‑student positions starting Oct 2025 – say hi!
+- Currently developing a **Security Dashboard** (Azure Serverless) for compliance under the EU Cyber Resilience Act, AND **Digitale Vertragsvermittlung**, an end-to-end contract brokerage platform built with Laravel 12 & Filament.
+- Actively maintaining **TheraPlanner**, a Laravel-based practice-management SaaS improving patient care in German clinics.
+---
+
+### Tech I enjoy
+
+<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,angular,java,azure,mysql,docker,git,linux" alt="My Tech Stack" />
 
 ---
 
-### ⚙️ Tech I enjoy
-
-<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,angular,java,mysql,docker,git,linux" alt="My Tech Stack" />
-
----
-
-### 🚀 Selected Projects
+### 🚀 Projects
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
@@ -35,9 +33,9 @@ During the day I build software as a working student at <a href="https://vi-os.d
 
 ### 🤝 Contact
 
-- 🌐 Website: [philipp-kasten.de](https://philipp-kasten.de)
-- 💼 LinkedIn: [linkedin.com/in/philipp-kasten](https://linkedin.com/in/philipp-kasten)
-- 📧 Mail: hello@philipp‑kasten.de
+- Website: [philipp-kasten.de](https://philipp-kasten.de)
+- LinkedIn: [linkedin.com/in/philipp-kasten](https://linkedin.com/in/philipp-kasten)
+- Mail: hello@philipp‑kasten.de
 
 ---
 
