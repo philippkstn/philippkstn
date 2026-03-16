@@ -21,7 +21,7 @@ By day, I build software as a developer at **SIEVERS-GROUP**, focusing on cloud-
 
 ---
 
-### 🚀 Projects
+### Projects
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
@@ -31,7 +31,7 @@ By day, I build software as a developer at **SIEVERS-GROUP**, focusing on cloud-
 
 ---
 
-### 🤝 Contact
+### Contact
 
 - Website: [philipp-kasten.de](https://philipp-kasten.de)
 - LinkedIn: [linkedin.com/in/philipp-kasten](https://linkedin.com/in/philipp-kasten)
