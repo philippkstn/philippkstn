@@ -22,6 +22,7 @@ I hold a B.Sc. in Business Informatics from Hochschule Osnabrück. Today I work 
 ### Projects
 | Project | What it does | Stack |
 |---------|--------------|-------|
+| [TakePart](https://github.com/philippkstn/takepart) | Live audience participation for talks and workshops: polls, Q&A, quizzes, word clouds and a “complete the sentence” game – self-hosted and open source. | React, Fastify, WebSockets, MariaDB, Docker |
 | [AI Call Automation](https://philipp-kasten.de/portfolio/ki-telefonie-automatisierung-praxis) | Turns practice phone calls into structured actions: local transcription, intent detection, automatic cancellations and self-closing to-dos. | n8n, Whisper, local LLM, REST APIs |
 | [Digitale Vertragsvermittlung](https://philipp-kasten.de/portfolio/digitale-vertragsvermittlung) | Streamlines insurance & energy contract workflows – from offer to e‑signature & commission. | Laravel 12, Filament, Breeze, Docker, MariaDB |
 | [TheraPlanner](https://philipp-kasten.de/portfolio/theraplanner) | All‑in‑one practice management SaaS: scheduling, billing, 2FA, API integrations. | Laravel, Tailwind, Alpine, REST |
